@@ -1,4 +1,4 @@
-# Hash of Arrays
+[;[# Hash of Arrays
 
 ## Learning Goals
 
